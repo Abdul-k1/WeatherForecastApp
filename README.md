@@ -23,7 +23,7 @@ Weather data you get when you make use of this app include:
 
 ## UI Design
 
-The UI of this app was designed using Adobe XD
+[The UI of this app was designed using Adobe XD](https://www.adobe.com/products/xd.html)
 
 # Demo
 <img height='400px' src= 'https://github.com/Abdul-k1/WeatherForecastApp/blob/1539b3bd2be6cd1ee8da411cf634c8e61c9d4c9d/assets/images/UI%20Design(Weather_forecast_app.png'>
