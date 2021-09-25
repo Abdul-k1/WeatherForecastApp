@@ -25,7 +25,8 @@ Weather data you get when you make use of this app include:
 
 The UI of this app was designed using Adobe XD
 
-[Screenshot of the Weather Forecast App] ()
+# Demo
+<img height='400px' src= 'https://github.com/Abdul-k1/WeatherForecastApp/blob/1539b3bd2be6cd1ee8da411cf634c8e61c9d4c9d/assets/images/UI%20Design(Weather_forecast_app.png'>
 
 ## Packages used in this project includes:
 
