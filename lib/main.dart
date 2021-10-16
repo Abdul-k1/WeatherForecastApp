@@ -7,7 +7,8 @@ import 'dart:async';
 import 'dart:convert';
 
 Future<WeatherInfo> fetchWeather() async {
-  final apiKey = '698adc15638429b71131978c9b20a089';
+  // Input your own whethermap API Key
+  final apiKey = 'Your API Key';
   final cityName = 'Lagos';
   // Temperature in Kelvin is used by default in the API,
   // For temperature in Celsius use units=metric
